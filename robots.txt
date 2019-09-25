@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kahmeushie.chittibabaji.org/sitemap.xml
